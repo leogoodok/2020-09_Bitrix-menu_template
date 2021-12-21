@@ -1,4 +1,4 @@
-# 2020-09_Bitrix:menu_template
+# bitrix:menu template
 Шаблона компонента bitrix:menu
 
 ### Меню в виде набора панелей открывающихся слевой стороны страницы.
